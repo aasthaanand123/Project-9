@@ -147,8 +147,7 @@ button:hover {
     display: block;
     background-image: url("/images/hero-desktop.jpg");
     width: 40vw;
-    background-size: contain;
-    height: 100vh;
+    background-size: cover;
     background-repeat: no-repeat;
   }
   .complete {
